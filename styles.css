@@ -1,0 +1,63 @@
+body{
+    background-color:#ebddf0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    h1{
+      text-align:center;
+      font-size:45px;
+    }
+    #img-div{
+    
+      background-color:#d2b5dc;
+      align-items:center;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      height:500px;
+      margin:0 auto;
+      padding:20px;
+      width:50%;
+      text-align:center;
+      border-radius:12px;
+      
+    
+      }
+    img{
+      display:block;
+      width:400px;
+      height:auto;
+      text-align:center;
+      margin:auto;
+      align-items:center;
+    }
+    #image{max-width:100%;
+    height:auto;
+    }
+    h2{
+      text-align:center;
+      font-size:23px;
+    }
+    ul li{
+      padding: 10px 0;
+      margin-bottom:10px;
+      font-size: 18px;
+      color:#282426
+    }
+    #tribute-info{
+     display:block;
+      width:800px;
+      height:auto;
+      padding-bottom:30px;
+      padding-top:30px;
+      
+      margin:auto; 
+    }
+    p{
+      text-align:center;
+      font-size:17px;
+      color:#282426;
+      
+    }
+    #wiki{
+      padding-top:20px;
+    }
